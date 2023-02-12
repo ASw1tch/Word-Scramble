@@ -14,6 +14,7 @@
 		9D866F3C2996EC0C00E8A7D0 /* Word_ScrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D866F3B2996EC0C00E8A7D0 /* Word_ScrambleTests.swift */; };
 		9D866F462996EC0C00E8A7D0 /* Word_ScrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D866F452996EC0C00E8A7D0 /* Word_ScrambleUITests.swift */; };
 		9D866F482996EC0C00E8A7D0 /* Word_ScrambleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D866F472996EC0C00E8A7D0 /* Word_ScrambleUITestsLaunchTests.swift */; };
+		9D866F552999769200E8A7D0 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 9D866F542999769000E8A7D0 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		9D866F412996EC0C00E8A7D0 /* Word ScrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Word ScrambleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D866F452996EC0C00E8A7D0 /* Word_ScrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScrambleUITests.swift; sourceTree = "<group>"; };
 		9D866F472996EC0C00E8A7D0 /* Word_ScrambleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word_ScrambleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9D866F542999769000E8A7D0 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				9D866F2A2996EC0700E8A7D0 /* Word_ScrambleApp.swift */,
 				9D866F2C2996EC0700E8A7D0 /* ContentView.swift */,
+				9D866F542999769000E8A7D0 /* start.txt */,
 				9D866F2E2996EC0C00E8A7D0 /* Assets.xcassets */,
 				9D866F302996EC0C00E8A7D0 /* Preview Content */,
 			);
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D866F322996EC0C00E8A7D0 /* Preview Assets.xcassets in Resources */,
+				9D866F552999769200E8A7D0 /* start.txt in Resources */,
 				9D866F2F2996EC0C00E8A7D0 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
